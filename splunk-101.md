@@ -1,0 +1,1 @@
+Just completed the Offensive Security Intro room on TryHackMe. The biggest realisation — understanding how attackers think makes you a significantly better defender. If you haven't tried ethical hacking as a blue teamer, you should. hashtag#SOCAnalyst hashtag#TryHackMe hashtag#BlueTeam hashtag#Cybersecurity
