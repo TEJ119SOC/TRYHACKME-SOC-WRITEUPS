@@ -1,5 +1,5 @@
 # TryHackMe SOC Writeups
-
+> **Profile:** [tryhackme.com/p/tejadapa2309]
 Hands-on writeups from TryHackMe rooms focused on SOC operations and blue team skills.
 
 ---
@@ -26,4 +26,9 @@ Hands-on writeups from TryHackMe rooms focused on SOC operations and blue team s
 
 ---
 
+## 👤 Author
+**Sai Teja Adapa** — SOC Analyst Level 1
+[LinkedIn](https://www.linkedin.com/in/TEJ119SOC)
+
 > All writeups are based on TryHackMe labs and reflect hands-on practical learning.
+
